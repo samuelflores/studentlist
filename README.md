@@ -7,3 +7,6 @@ Gustaw Eriksson
 Leo Dahl  
 María ueno Alvez     
 Ziwei Liu  
+John Mollstedt
+Violeta de Anca Prado
+
