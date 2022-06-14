@@ -13,3 +13,5 @@ Binbin Zhao
 Hong Jiang
 Michael Landi
 Yuying Li
+Felicie Jennysdotter Olofsgård
+Sofia Papavasileiou
