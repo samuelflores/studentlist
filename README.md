@@ -9,4 +9,7 @@ María ueno Alvez
 Ziwei Liu  
 John Mollstedt
 Violeta de Anca Prado
-
+Binbin Zhao
+Hong Jiang
+Michael Landi
+Yuying Li
