@@ -1,5 +1,3 @@
-# List of students in the course, alphabetical <br />
-# studentlist
 <<<<<<< HEAD
 List of students in the course, alphabetical
 Artyom Egorov
@@ -18,3 +16,4 @@ Yuying Li
 Felicie Jennysdotter Olofsgård
 Sofia Papavasileiou
 María ueno Alvez     
+Martin Smelik
