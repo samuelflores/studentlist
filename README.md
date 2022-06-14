@@ -1,6 +1,5 @@
 # studentlist
 List of students in the course, alphabetical <br />
-
 Artyom Egorov <br />
 Binbin Zhao <br />
 Gustaw Eriksson  <br />
