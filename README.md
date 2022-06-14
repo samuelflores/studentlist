@@ -1,4 +1,7 @@
 # studentlist
+
 List of students in the course, alphabetical
-Gustaw Eriksson
-María Beno Alvez
+Gustaw Eriksson  
+Leo Dahl  
+María ueno Alvez     
+Ziwei Liu  
