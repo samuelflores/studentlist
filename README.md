@@ -1,7 +1,7 @@
 # studentlist
-List of students in the course, alphabetical \n
-Hong Jiang \n
-Michael Landi \n
+List of students in the course, alphabetical <br />
+Hong Jiang <br />
+Michael Landi <br />
 
  
 
