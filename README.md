@@ -7,7 +7,7 @@ Gustaw Eriksson  <br />
 Hong Jiang <br />
 Jose Nakamoto <br />
 Leo Dahl  <br />
-María ueno Alve <br />z     
+María ueno Alvez <br />     
 Michael Landi <br />
 Osheen Sharma <br />
 Yuying Li <br />
