@@ -1,5 +1,7 @@
 # studentlist
 List of students in the course, alphabetical
 
-xiyasong
+Felicie Jennysdotter Olofsgård
 Mengnan Shi
+Sofia Papavasileiou
+xiyasong
