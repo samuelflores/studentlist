@@ -1,5 +1,9 @@
  studentlist
 List of students in the course, alphabetical
-D
+<<<<<<< HEAD
+
 Felicie Jennysdotter Olofsgård
-Osheen Sharma
+Mengnan Shi
+xiyasong
+
+>>>>>>> origin/mengnan
