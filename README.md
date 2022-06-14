@@ -1,19 +1,19 @@
 <<<<<<< HEAD
-List of students in the course, alphabetical
 Artyom Egorov
-Osheen Sharma
-Jose Nakamoto
-Gustaw Eriksson  
-Leo Dahl  
-María ueno Alvez     
-Ziwei Liu  
-John Mollstedt
-Violeta de Anca Prado
 Binbin Zhao
-Hong Jiang
-Michael Landi
-Yuying Li
 Felicie Jennysdotter Olofsgård
-Sofia Papavasileiou
-María ueno Alvez     
+Gustaw Eriksson  
+Hong Jiang
+John Mollstedt
+Jose Nakamoto
+Leo Dahl  
+List of students in the course, alphabetical
 Martin Smelik
+María ueno Alvez     
+María ueno Alvez     
+Michael Landi
+Osheen Sharma
+Sofia Papavasileiou
+Violeta de Anca Prado
+Yuying Li
+Ziwei Liu  
