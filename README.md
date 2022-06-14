@@ -1,7 +1,7 @@
 
 
 # studentlist
-#List of students in the course, alphabetical <br />
+List of students in the course, alphabetical <br />
 Artyom Egorov <br />
 Binbin Zhao <br />
 Felicie Jennysdotter Olofsgård<brr /> 
