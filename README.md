@@ -11,7 +11,7 @@ María ueno Alvez <brr />
 Mengnan Shi <br />
 Michael Landi <br />
 Osheen Sharma <br />
-Sofia Papavasileio <br />u
+Sofia Papavasileio <br />
 xiyasong <br />
 Yuying Li <br />
 Ziwei Liu <br />
