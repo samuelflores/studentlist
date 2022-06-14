@@ -1,4 +1,10 @@
 # studentlist
+
 List of students in the course, alphabetical
 
-Ziwei Liu
+
+Leo Dahl   
+Ziwei Liu  
+ 
+
+
