@@ -9,6 +9,9 @@ Mariam Miari
 Mariia Feshyna
 Markella Zacharouli
 Michael Nagy 
+Nicholas_Karlowatz
+Radosław Grochowski
+Rikard Forlin 
 Ryan Potter
 Samuel Flores
 Sarah Narrowe Danielsson
