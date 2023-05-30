@@ -2,6 +2,7 @@
 #List of students in the course, written as "firstname lastname"
 #alphabetical by firstname
 Aron Arzoomand
+Eric Ahlberg
 Magnus Tronstad
 Samuel Flores
 Valeriia Ladyhina
