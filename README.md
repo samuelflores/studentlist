@@ -11,6 +11,7 @@ Markella Zacharouli
 Michael Nagy 
 Nicholas_Karlowatz
 Radosław Grochowski
+Riccardo Mosca
 Rikard Forlin 
 Ryan Potter
 Samuel Flores
