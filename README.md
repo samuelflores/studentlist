@@ -13,6 +13,7 @@ Mariia Feshyna
 Markella Zacharouli
 Michael Nagy 
 Nicholas_Karlowatz
+Panagiotis Kalogeropoulos
 Radosław Grochowski
 Riccardo Mosca
 Rikard Forlin 
