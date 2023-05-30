@@ -3,6 +3,7 @@
 #alphabetical by firstname
 Aron Arzoomand
 Federico Pozzani
+Lina Stepanauskaite
 Mariia Feshyna
 Markella Zacharouli
 Michael Nagy 
