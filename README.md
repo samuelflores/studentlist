@@ -23,4 +23,3 @@ Sarah Narrowe Danielsson
 Tracer Yong
 Valeriia Ladyhina
 Yongjian Chen
-
