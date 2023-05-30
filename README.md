@@ -3,6 +3,9 @@
 Aonghus Naughton
 Aron Arzoomand
 Federico Pozzani
+Hui Yu
+Jose B_Walls
+Lina Stepanauskaite
 Mariam Miari
 Mariia Feshyna
 Markella Zacharouli
