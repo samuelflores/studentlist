@@ -1,8 +1,7 @@
-# studentlist
-#List of students in the course, written as "firstname lastname"
 #alphabetical by firstname
 Aron Arzoomand
 Federico Pozzani
+Jose B_Walls
 Lina Stepanauskaite
 Mariia Feshyna
 Markella Zacharouli
