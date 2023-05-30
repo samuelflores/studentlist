@@ -6,7 +6,7 @@ Federico Pozzani
 Lina Stepanauskaite
 Mariia Feshyna
 Markella Zacharouli
-Michael Nagy 
+Michael Nagy
 Ryan Potter
 Samuel Flores
 Sarah Narrowe Danielsson
