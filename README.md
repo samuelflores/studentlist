@@ -3,6 +3,7 @@
 #alphabetical by firstname
 Federico Pozzani
 Lennart Hohmann
+Lina Stepanauskaite
 Mariam Miari
 Markella Zacharouli
 Michael Nagy 
