@@ -1,3 +1,4 @@
+
 #List of students in the course, written as "firstname lastname"
 #alphabetical by firstname
 Aonghus Naughton
@@ -6,7 +7,9 @@ Eric Ahlberg
 Federico Pozzani
 Hui Yu
 Jose B_Walls
+Lennart Hohmann
 Lina Stepanauskaite
+Linnéa Lindquist
 Magnus Tronstad
 Mariam Miari
 Mariia Feshyna
