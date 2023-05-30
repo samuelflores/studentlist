@@ -2,4 +2,4 @@
 #List of students in the course, written as "firstname lastname"
 #alphabetical by firstname
 
-Hui Yu
+1. Hui Yu
