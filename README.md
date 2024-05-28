@@ -6,4 +6,4 @@
 Gustav Joas
 Marc-Antoine Gerault
 
-![The biggest fish](https://asciiart.cc/view/12653)
+![The biggest fish](https://file.asciiart.cc/cover/812a98b8c66eff98.png!cover_webp)
