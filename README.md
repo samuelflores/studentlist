@@ -4,12 +4,12 @@
 #alphabetical by firstname
 <<<<<<< HEAD
 
-* Iñaki Sasiain Casado
-* Sofia Hernandez
-* Konstantin Danilov
-* Luca Gaessler
-* Joel Tekoniemi
+* Baizhen Chen
 * Emilia Morales
 * Fanny Gustafsson
-* Baizhen Chen
+* Iñaki Sasiain Casado
+* Joel Tekoniemi
+* Konstantin Danilov
+* Luca Gaessler
 * Samuel Flores
+* Sofia Hernandez
