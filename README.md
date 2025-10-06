@@ -1,16 +1,20 @@
 # studentlist
 
-\#List of students in the course, written as "firstname lastname"
+#List of students in the course, written as "firstname lastname"
 #alphabetical by firstname
 
-* August lundholm
+* August Lundholm
 * Baizhen Chen
 * Emilia Morales
+* Erika Negrini
 * Fanny Gustafsson
 * Iñaki Sasiain Casado
 * Jay Håkansson
 * Joel Tekoniemi
 * Konstantin Danilov
+* Larissa Kahnwald
 * Luca Gaessler
 * Sofia Hernandez
+
+
 
