@@ -15,3 +15,4 @@
 * Luca Gaessler
 * Samuel Flores
 * Sofia Hernandez
+* Larissa Kahnwald
