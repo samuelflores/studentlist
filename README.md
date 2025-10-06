@@ -5,12 +5,13 @@
 #List of students in the course, written as "firstname lastname"
 #alphabetical by firstname
 
-* Iñaki Sasiain Casado
-* Sofia Hernandez
-* Konstantin Danilov
-* Luca Gaessler
-* Baizhen Chenn
-* Emilia Morales
-* Joel Tekoniemi
+* Baizhen Chen
 * Emilia Morales
 * Fanny Gustafsson
+* Iñaki Sasiain Casado
+* Joel Tekoniemi
+* Konstantin Danilov
+* Luca Gaessler
+* Samuel Flores
+* Sofia Hernandez
+
