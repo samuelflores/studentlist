@@ -6,12 +6,16 @@
 * August Lundholm
 * Baizhen Chen
 * Emilia Morales
+* Erika Negrini
 * Fanny Gustafsson
 * Iñaki Sasiain Casado
 * Jay Håkansson
 * Joel Tekoniemi
 * Konstantin Danilov
+* Larissa Kahnwald
 * Luca Gaessler
 * Samuel Flores
 * Sofia Hernandez
-* Larissa Kahnwald
+
+
+
