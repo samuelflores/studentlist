@@ -11,7 +11,7 @@
 * Jay Håkansson
 * Joel Tekoniemi
 * Konstantin Danilov
+* Larissa Kahnwald
 * Luca Gaessler
 * Samuel Flores
 * Sofia Hernandez
-
