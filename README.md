@@ -5,6 +5,7 @@
 
 * August Lundholm
 * Baizhen Chen
+* Erika Negrini
 * Emilia Morales
 * Fanny Gustafsson
 * Iñaki Sasiain Casado
