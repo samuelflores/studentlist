@@ -3,7 +3,7 @@
 \#List of students in the course, written as "firstname lastname"
 #alphabetical by firstname
 
-* August lundholm
+* August Lundholm
 * Baizhen Chen
 * Emilia Morales
 * Fanny Gustafsson
