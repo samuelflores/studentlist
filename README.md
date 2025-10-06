@@ -6,3 +6,4 @@
 * Sofia Hernandez
 * Konstantin Danilov
 * Luca Gaessler
+* Joel Tekoniemi
