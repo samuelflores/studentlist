@@ -2,6 +2,7 @@
 
 \#List of students in the course, written as "firstname lastname"
 #alphabetical by firstname
+<<<<<<< HEAD
 
 * Iñaki Sasiain Casado
 * Sofia Hernandez
@@ -11,3 +12,4 @@
 * Emilia Morales
 * Fanny Gustafsson
 * Baizhen Chen
+* Samuel Flores
