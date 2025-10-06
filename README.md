@@ -12,6 +12,5 @@
 * Joel Tekoniemi
 * Konstantin Danilov
 * Luca Gaessler
-* Samuel Flores
 * Sofia Hernandez
 
