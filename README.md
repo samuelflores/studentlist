@@ -6,11 +6,10 @@ Diana Omboli
 
 Eva Rogelj
 
-<<<<<<< HEAD
+
+
+
+Lina Andersson
 Marios Michailidis
 
-
-=======
-Lina Andersson
->>>>>>> f43d6ca95cf9022db9767726b241b30fdf1b9aab
 
